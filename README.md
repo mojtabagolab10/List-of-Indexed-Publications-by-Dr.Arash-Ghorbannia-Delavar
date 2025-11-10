@@ -41,7 +41,7 @@ and reflect ongoing research in intelligent computing and energy-aware systems.
 ## 📎 Notes
 - This list includes both **journal** and **conference** publications.
 - Each DOI link redirects to the publisher’s official page.
-- Repository maintained by **Mojtaba Golabgir** for academic indexing purposes.
+- Repository maintained by **Mojtaba Golab** for academic indexing purposes.
 
 ---
 
