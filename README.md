@@ -48,7 +48,6 @@ and reflect ongoing research in intelligent computing and energy-aware systems.
 ## 🧩 Related Profiles
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=FbvFpVsAAAAJ)
 - 🔗 [ResearchGate](https://www.researchgate.net/profile/Arash-Ghorbannia-Delavar)
-- 🔗 [ORCID](https://orcid.org/) *(if available)*
 
 ---
 
