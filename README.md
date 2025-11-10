@@ -58,4 +58,3 @@ Department of Computer Engineering
 
 ---
 
-⭐ *Maintained with academic precision — Contributions and corrections are welcome.*
